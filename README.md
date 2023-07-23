@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Formulário MultiSteps é um projeto para praticar o conhecimento sobre formulários com o uso de CSS, HTML e JS.
+O Widget do Uber é um projeto para praticar o conhecimento no FrameWork Bootstrap.
 - [Acesse o projeto finalizado, online](https://p4peldebala.github.io/Bootstrap_Uber_Widget/)
 
 
