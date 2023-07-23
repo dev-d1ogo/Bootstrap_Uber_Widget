@@ -13,7 +13,7 @@ Desenvolvimento de um widget muito semelhante o utilizado pela empresa Uber. Tod
 </p>
 
 <p align="center">
-  <img alt="License" src="./imgs/Purple Playful Fun Youtube Thumbnail.png">
+  <img alt="License" src="./imgs/thumbnail.png">
 </p>
 
 <br>
