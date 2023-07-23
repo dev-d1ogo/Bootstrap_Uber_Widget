@@ -12,9 +12,6 @@ Desenvolvimento de um widget muito semelhante o utilizado pela empresa Uber. Tod
   
 </p>
 
-![Purple Playful Fun Youtube Thumbnail](https://github.com/p4peldebala/Bootstrap_Uber_Widget/assets/120611995/61705a29-c69d-4c9c-ac9b-2cca7ef1db38)
-
-
 <p align="center">
   <img alt="License" src="https://github.com/p4peldebala/Bootstrap_Uber_Widget/assets/120611995/61705a29-c69d-4c9c-ac9b-2cca7ef1db38">
 </p>
