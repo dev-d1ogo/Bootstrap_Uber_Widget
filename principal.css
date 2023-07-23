@@ -1,0 +1,23 @@
+.main{
+    display: grid;
+    place-content: center;
+}
+.principal{
+    padding: 45px 70px;
+    gap: 99px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 40px;
+    background: whitesmoke;
+    min-height: 100vh;
+    
+}
+
+
+.roxo{
+    height: 17px;
+    width: 168px;
+    flex-shrink: 0;
+    border-radius: 999px;
+    background: #E5D8EA;
+}

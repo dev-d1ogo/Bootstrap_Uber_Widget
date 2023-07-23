@@ -1,0 +1,79 @@
+figcaption{
+    color: #372D3B !important;
+    font-family: Inter;
+    font-size: 18px !important;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: center;
+}
+
+.figure{
+    position: relative !important;
+}
+.imgCarro{
+    z-index: 0;
+    padding-left: 45px;
+}
+
+
+.imgMotorista{
+    
+    z-index: 10;
+}
+
+.notaMotorista{
+    border-radius: 15.686px;
+    background: #372D3B;
+    height: 31px;
+    gap: 5px;
+    width: 100px;
+    z-index: 10;
+
+}
+
+.notaMotorista p{
+    color: #FBF8FC;
+    font-family: Inter;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin: 0;
+}
+
+.placa{
+    color: #372D3B;
+    font-family: Inter;
+    font-size: 41.096px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.modelo{
+    color: #372D3B;
+    font-family: Inter;
+    font-size: 24.657px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    flex-wrap: nowrap;
+}
+
+@media (max-width:768px) and (min-width: 577px){
+    .imgCarro{
+        width: 250px;
+        left: 40px;
+        
+    }
+}
+
+@media (max-width:576) {
+    .imgCarro{
+        display: none;
+    }
+    .contatoMotorista::placeholder{
+        font-size: 16px;
+    }
+}

@@ -1,0 +1,18 @@
+
+.contatoMotorista{
+    border-radius: 24px;
+    background: #F5EDF7; 
+    padding: 18px;
+}
+
+.contatoMotorista::placeholder{
+    color: #372D3B;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    
+}
+
+.iconesContato{
+    gap: 40px;
+}
